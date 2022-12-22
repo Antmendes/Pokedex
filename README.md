@@ -7,4 +7,4 @@
     <li>Css</li>
     <li>Javascript</li>
 </ul>
-<h4>Link do site: <a href="https://pokedex-firstgeneration.netlify.app/">https://pokedex-firstgeneration.netlify.app/</a></h4>
+<h4>Link do site: <a href="https://pokedex-firstgeneration.netlify.app/" target="_blank">https://pokedex-firstgeneration.netlify.app/</a></h4>
