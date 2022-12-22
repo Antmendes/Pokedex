@@ -1,4 +1,4 @@
-<h1>Pokedex-FirstGeneratio</h1>
+<h1>Pokedex-FirstGeneration</h1>
 <p>- consumo da api pokeApi</p>
 <p>- design responsivo</p>
 <h2>tecnologias utilizadas</h2>
@@ -7,4 +7,4 @@
     <li>Css</li>
     <li>Javascript</li>
 </ul>
-<h4>Link do site: <a href="https://pokedex-firstgeneration.netlify.app/"></a></h4>
+<h4>Link do site: <a href="https://pokedex-firstgeneration.netlify.app/">https://pokedex-firstgeneration.netlify.app/</a></h4>
