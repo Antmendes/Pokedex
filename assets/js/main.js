@@ -34,7 +34,7 @@ function convertPokemonToLi(pokemon){
 
 loadPokemonItens(offset, limit)
 
-loadMoreButton.addEventListener('click', () =>{
+loadMoreButton.addEventListener('click', () => {
     offset += limit
 
     const qtdRecord = offset + limit
